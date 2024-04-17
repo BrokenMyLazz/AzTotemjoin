@@ -1,0 +1,14 @@
+# |__   __| | |                    | |     (_)
+#   | | ___ | |_ ___ _ __ ___      | | ___  _ _ __
+#   | |/ _ \| __/ _ \ '_ ` _ \ _   | |/ _ \| | '_ \
+#   | | (_) | ||  __/ | | | | | |__| | (_) | | | | |
+#   |_|\___/ \__\___|_| |_| |_|\____/ \___/|_|_| |_|
+
+# Halo semuanya! selamat datang di konfigurasi AzTotemJoin yang Simpel.
+# Punya saran? Beritahu saya di github dan saya akan mencoba yang terbaik untuk menambahkan atau memperbaikinya!
+# Belum dipastikan apakah plugin ini mendukung garpu atau sendok PMMP, Direkomendasikan untuk digunakan pada PocketMine-MP!
+
+# Kesal dengan suara menyeramkan saat bergabung? Jangan khawatir! Ubah saja "true" menjadi "false" untuk menonaktifkannya.
+# Jenis yang tersedia: "true" atau "false".
+join-totem-sound: true
+# Enjoy the plugin!
