@@ -1,6 +1,0 @@
-name: AzTotemJoin
-version: 1.0.0
-author: AzmiDev
-main: Azmidev\TotemJoin\Loader
-description: "Animasi Totoem Ketika Join"
-api: 5.0.0
